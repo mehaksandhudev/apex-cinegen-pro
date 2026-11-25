@@ -1,0 +1,21 @@
+# Secrets & Credentials (NEVER COMMIT)
+.env
+client_secrets.json
+youtube_token.pickle
+authorized_users.json
+credits_cache.json
+used_topics.json
+
+# Browser Profile & Logs
+chrome_profile/
+*.log
+tests/*.log
+__pycache__/
+*.pyc
+
+# Output Videos (Ignore all except the 2 README showcase samples)
+output_videos/*
+!output_videos/sheru_cheetah_flying_pind_20261123_184137.mp4
+!output_videos/sheru_cheetah_flying_pind_20261123_184137_thumbnail.jpg
+!output_videos/sheru_final_20261125_132932.mp4
+!output_videos/sheru_final_20261125_132932_thumbnail.jpg
