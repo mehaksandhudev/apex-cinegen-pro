@@ -223,7 +223,7 @@ If this project helped you, consider supporting or sponsoring via [GitHub Sponso
 
 ## 📄 License
 
-MIT © [Mehak Sandhu](https://mehak-sandhu.in) — see [LICENSE](LICENSE) for details.
+Proprietary / Personal Studio Automation — © [Mehak Sandhu](https://mehak-sandhu.in).
 
 ---
 
