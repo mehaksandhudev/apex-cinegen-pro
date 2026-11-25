@@ -21,12 +21,12 @@
 
 ## 🎥 Live Video Showcase (2-Clip vs. 3-Clip)
 
-| **2-Clip Fast Short (`~30s–33s` + Outro)** | **3-Clip Epic Short (`~40s` + Outro)** |
+| **2-Clip Fast Short (`~33s` + Outro · Full Audio)** | **3-Clip Epic Short (`~40s` + Outro · Full Audio)** |
 | :---: | :---: |
-| ![2-Clip Animated Preview](assets/demo_2clip.gif) | ![3-Clip Animated Preview](assets/demo_3clip.gif) |
+| [![2-Clip Cover](output_videos/sheru_cheetah_flying_pind_20261123_184137_thumbnail.jpg)](https://www.youtube.com/shorts/-qke-ZRs1ug) | [![3-Clip Cover](output_videos/sheru_final_20261125_132932_thumbnail.jpg)](https://raw.githubusercontent.com/mehaksandhudev/apex-cinegen-pro/main/assets/demo_3clip_hd.mp4) |
 | **Cheetah Builder ki akad 💥 Sheru Bhai ka Flying Pind!** | **Sheru Bhai ka 24K Gold Planet 👑** |
 | `Clip 1 (10s)` + `Clip 2 (10s)` + `Outro` | `Clip 1 (10s)` + `Clip 2 (10s)` + `Clip 3 (10s)` + `1122.mp4` |
-| [🎬 Full HD MP4](output_videos/sheru_cheetah_flying_pind_20261123_184137.mp4) • [▶️ Live YouTube Short](https://www.youtube.com/shorts/-qke-ZRs1ug) | [🎬 Full HD MP4 (`17.8 MB`)](output_videos/sheru_final_20261125_132932.mp4) • [🖼️ Cover](output_videos/sheru_final_20261125_132932_thumbnail.jpg) |
+| [![Watch on YouTube Shorts](https://img.shields.io/badge/▶%20Watch%20YouTube%20Short-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/shorts/-qke-ZRs1ug) [![Play MP4 with Sound](https://img.shields.io/badge/🔊%20Play%20MP4%20(6.6MB)-2EA44F?style=for-the-badge)](https://raw.githubusercontent.com/mehaksandhudev/apex-cinegen-pro/main/assets/demo_2clip_hd.mp4) | [![Play MP4 with Sound](https://img.shields.io/badge/🔊%20Play%20MP4%20with%20Sound%20(7.4MB)-2EA44F?style=for-the-badge)](https://raw.githubusercontent.com/mehaksandhudev/apex-cinegen-pro/main/assets/demo_3clip_hd.mp4) |
 
 ---
 
@@ -223,7 +223,7 @@ If this project helped you, consider supporting or sponsoring via [GitHub Sponso
 
 ## 📄 License
 
-Proprietary / Personal Studio Automation — © [Mehak Sandhu](https://mehak-sandhu.in).
+MIT © [Mehak Sandhu](https://mehak-sandhu.in) — see [LICENSE](LICENSE) for details.
 
 ---
 
