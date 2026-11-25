@@ -41,9 +41,9 @@ Real 9:16 vertical Shorts rendered autonomously by **APEX CINEGEN PRO** (with fu
 
 | **2-Clip Fast Short (`~33s` + Outro)** | **3-Clip Epic Short (`~40s` + Outro)** |
 | :---: | :---: |
-| [![2-Clip Short](output_videos/sheru_cheetah_flying_pind_20261123_184137_thumbnail.jpg)](https://www.youtube.com/shorts/-qke-ZRs1ug) | [![3-Clip Short](output_videos/sheru_final_20261125_132932_thumbnail.jpg)](https://raw.githubusercontent.com/mehaksandhudev/apex-cinegen-pro/main/assets/demo_3clip_hd.mp4) |
-| **Cheetah Builder ki akad 💥 Sheru Bhai ka Flying Pind!** | **Sheru Bhai ka 24K Gold Planet 👑** |
-| [![Watch YouTube Short](https://img.shields.io/badge/▶%20Watch%20YouTube%20Short-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/shorts/-qke-ZRs1ug) [![Play MP4 with Sound](https://img.shields.io/badge/🔊%20Play%20MP4%20(6.6MB)-2EA44F?style=flat-square)](https://raw.githubusercontent.com/mehaksandhudev/apex-cinegen-pro/main/assets/demo_2clip_hd.mp4) | [![Play MP4 with Sound](https://img.shields.io/badge/🔊%20Play%20MP4%20with%20Sound%20(7.4MB)-2EA44F?style=flat-square)](https://raw.githubusercontent.com/mehaksandhudev/apex-cinegen-pro/main/assets/demo_3clip_hd.mp4) |
+| [![2-Clip Short](output_videos/sheru_cheetah_flying_pind_20261123_184137_thumbnail.jpg)](https://www.youtube.com/shorts/-qke-ZRs1ug) | [![3-Clip Short](output_videos/sheru_final_20261125_132932_thumbnail.jpg)](https://www.youtube.com/shorts/Bzwobmkl0bI) |
+| **Cheetah Builder ki akad 💥 Sheru Bhai ka Flying Pind!** | **Sheru Bhai ka 24K Gold Planet 🤯** |
+| [![Watch YouTube Short](https://img.shields.io/badge/▶%20Watch%20YouTube%20Short-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/shorts/-qke-ZRs1ug) [![Play MP4 with Sound](https://img.shields.io/badge/🔊%20Play%20MP4%20(6.6MB)-2EA44F?style=flat-square)](https://raw.githubusercontent.com/mehaksandhudev/apex-cinegen-pro/main/assets/demo_2clip_hd.mp4) | [![Watch YouTube Short](https://img.shields.io/badge/▶%20Watch%20YouTube%20Short-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/shorts/Bzwobmkl0bI) [![Play MP4 with Sound](https://img.shields.io/badge/🔊%20Play%20MP4%20(7.4MB)-2EA44F?style=flat-square)](https://raw.githubusercontent.com/mehaksandhudev/apex-cinegen-pro/main/assets/demo_3clip_hd.mp4) |
 | *`Clip 1 (10s)` + `Clip 2 (10s)` + `Outro` • `720x1280` `9:16`* | *`Clip 1 (10s)` + `Clip 2 (10s)` + `Clip 3 (10s)` + `1122.mp4` • `720x1280` `9:16`* |
 
 ---
