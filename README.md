@@ -19,6 +19,17 @@
 
 ---
 
+## 🎥 Live Video Showcase (2-Clip vs. 3-Clip)
+
+| **2-Clip Fast Short (`~30s–33s` + Outro)** | **3-Clip Epic Short (`~40s` + Outro)** |
+| :---: | :---: |
+| ![2-Clip Animated Preview](assets/demo_2clip.gif) | ![3-Clip Animated Preview](assets/demo_3clip.gif) |
+| **Cheetah Builder ki akad 💥 Sheru Bhai ka Flying Pind!** | **Sheru Bhai ka 24K Gold Planet 👑** |
+| `Clip 1 (10s)` + `Clip 2 (10s)` + `Outro` | `Clip 1 (10s)` + `Clip 2 (10s)` + `Clip 3 (10s)` + `1122.mp4` |
+| [🎬 Full HD MP4](output_videos/sheru_cheetah_flying_pind_20261123_184137.mp4) • [▶️ Live YouTube Short](https://www.youtube.com/shorts/-qke-ZRs1ug) | [🎬 Full HD MP4 (`17.8 MB`)](output_videos/sheru_final_20261125_132932.mp4) • [🖼️ Cover](output_videos/sheru_final_20261125_132932_thumbnail.jpg) |
+
+---
+
 ## 🏗️ System Architecture
 
 ```mermaid
@@ -135,26 +146,7 @@ python schedule_latest_video.py
 
 ---
 
-## 🎥 Video & Telegram Examples
-
-### 1. Generated Short Formats (2-Clip vs. 3-Clip)
-
-| Format | Flow Clips | Total Length | Sample Output | Cover Preview |
-| :--- | :---: | :---: | :--- | :--- |
-| **2-Clip Fast Short** | `Clip 1 (10s)` + `Clip 2 (10s)` | `~30s–33s` *(+ Outro)* | [Watch 2-Clip MP4](output_videos/sheru_cheetah_flying_pind_20261123_184137.mp4) • [Live YouTube Short](https://www.youtube.com/shorts/-qke-ZRs1ug) | ![2-Clip Cover](output_videos/sheru_cheetah_flying_pind_20261123_184137_thumbnail.jpg) |
-| **3-Clip Epic Short** | `Clip 1 (10s)` + `Clip 2 (10s)` + `Clip 3 (10s)` | `~40s` *(+ Outro)* | [Watch 3-Clip MP4](output_videos/sheru_final_20261125_132932.mp4) (`17.8 MB`) | ![3-Clip Cover](output_videos/sheru_final_20261125_132932_thumbnail.jpg) |
-
-#### Inline Video Previews
-
-**2-Clip Mode — *Cheetah Builder ki akad 💥 Sheru Bhai ka Flying Pind!*** (`720x1280` · `9:16`)
-<video src="output_videos/sheru_cheetah_flying_pind_20261123_184137.mp4" controls width="320"></video>
-
-**3-Clip Mode — *Sheru Bhai ka 24K Gold Planet 👑*** (`720x1280` · `9:16` · `30s` Flow + `1122.mp4` Outro)
-<video src="output_videos/sheru_final_20261125_132932.mp4" controls width="320"></video>
-
----
-
-### 2. Telegram Studio Examples (`@sheruautobot`)
+## 📱 Telegram Studio Examples (`@sheruautobot`)
 
 #### A. 1-Time Access Gate (Shareable With Friends)
 ```text
@@ -209,7 +201,34 @@ Want custom automation, multi-agent AI pipelines, or help setting up **APEX CINE
 
 ---
 
-## 👑 Author & License
+## 👩‍💻 Author
 
-- **Lead Architect & Developer:** **Mehak Sandhu** ([@mehaksandhudev](https://github.com/mehaksandhudev))
-- **License:** Proprietary / Personal Studio Automation — Built by **Mehak Sandhu**.
+**Mehak Sandhu**
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-mehak--sandhu.in-indigo?style=flat-square&logo=safari)](https://mehak-sandhu.in)
+[![GitHub](https://img.shields.io/badge/GitHub-mehaksandhudev-black?style=flat-square&logo=github)](https://github.com/mehaksandhudev)
+[![Email](https://img.shields.io/badge/Email-mehaksandhudev%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mehaksandhudev@gmail.com)
+
+---
+
+## ☕ Support & Sponsor
+
+If this project helped you, consider supporting or sponsoring via [GitHub Sponsors](https://github.com/sponsors/mehaksandhudev), [PayPal](https://paypal.me/mhksandhu), or [Buy Me A Coffee](https://buymeacoffee.com/mehaksandhudev)!
+
+[![Sponsor on GitHub](https://img.shields.io/badge/Sponsor-GitHub%20Sponsors-EA4AAA?style=flat-square&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/mehaksandhudev)
+[![Donate with PayPal](https://img.shields.io/badge/Donate-PayPal-00457C?style=flat-square&logo=paypal&logoColor=white)](https://paypal.me/mhksandhu)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-☕-FFDD00?style=flat-square&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/mehaksandhudev)
+
+---
+
+## 📄 License
+
+Proprietary / Personal Studio Automation — © [Mehak Sandhu](https://mehak-sandhu.in).
+
+---
+
+<div align="center">
+
+Crafted with ❤️ by **[Mehak Sandhu](https://github.com/mehaksandhudev)** • [Portfolio](https://www.mehak-sandhu.in)
+
+</div>
